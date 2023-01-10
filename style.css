@@ -1,0 +1,141 @@
+ html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100%; 
+
+} 
+
+  .imga{
+    background-image: url(image1.png);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+  }
+
+   .ptext{
+    text-align: center;
+  } 
+  .para{
+    width: auto;
+    height: auto;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    color: white;
+    border: 2px solid grey;
+    padding: 20px;
+    position: relative;
+    top: 390px;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color:rgb(173, 167, 167);
+    
+  }
+  .sec_one{
+    text-align: center;
+    padding: 50px;
+   
+  }
+
+  .imgb{
+    background-image: url(image2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+    height: 50vh;
+  }
+  
+  .parab{
+    position: absolute;
+    top: 40%;
+    /* right: 530px; */
+    left: 40%;
+    width: auto;
+    height: auto;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    color: white;
+    border: 2px solid grey;
+    padding: 20px;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color:rgb(173, 167, 167);
+  }
+
+  .text2{
+    text-align: center;
+    padding: 50px;
+    color: white;
+    background-color: black;
+   
+  }
+
+  .img_c{
+    background-image: url(image3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 50vh;
+    position: relative;
+  }
+
+  .ptextc{
+    text-align: center;
+    
+  }
+  .parac{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    width: auto;
+    height: auto;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    color: white;
+    border: 2px solid grey;
+    padding: 20px;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color:rgb(173, 167, 167);
+  }
+
+  .text3{
+    text-align: center;
+    padding: 60px;
+    color: wheat;
+    background-color: black;
+  }
+
+  .imga{
+    background-image: url(image1.png);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+  }
+
+   .ptext{
+    text-align: center;
+  } 
+  .para{
+    width: auto;
+    height: auto;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    color: white;
+    border: 2px solid grey;
+    padding: 20px;
+    position: relative;
+    top: 390px;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color:rgb(173, 167, 167);
+    
+  }
